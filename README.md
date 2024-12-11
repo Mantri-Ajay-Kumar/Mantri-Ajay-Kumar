@@ -22,8 +22,8 @@ Hi! I'm **Ajay Kumar Mantri**, a passionate and dedicated **Full Stack Engineer*
 ---
 
 ## 📊 GitHub Stats  
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mantri-Ajay-Kumar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mantri-Ajay-Kumar&layout=compact&theme=radical)
 
 ---
 
